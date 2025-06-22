@@ -1,0 +1,18 @@
+indosat_salesdashboard:
+
+  preparation-phase:
+    ✔ make a project with uv @done(25-06-13 12:55)
+    ✔ menentukan library yang akan di gunakan @done(25-06-13 20:00)
+    ✔ Setup basic Project @done(25-06-13 20:00)
+    ✔ Setup basic Git @done(25-06-13 20:00)
+    ✔ Setup basic Virtual Environment @done(25-06-13 20:00)
+    ✔ Setup basic Repository @done(25-06-13 20:00)
+    ✔ setup Basic pyproject.toml @done(25-06-13 22:59)
+    ✔ Setup Pre-commit @done(25-06-13 20:00)
+
+    project-discussion:
+      ☐ how we handle etl
+      ☐ how we handle data quality
+      ☐ how we handle data partitioning
+
+Archive:
